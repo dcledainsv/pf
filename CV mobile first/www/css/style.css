@@ -16,7 +16,6 @@ body
 	background-size: cover;
 	background-attachment: fixed;
 	padding-top: 2%;
-	padding-bottom: 30px;
 	width: 100%;
 	height: 100vh;
 	font-family: "Arial";
@@ -62,7 +61,7 @@ header
 .coo-ul li
 {
 	list-style-type: none;
-	font-size: 1.1em;
+	font-size: 0.8em;
 }
 
 #connaissances img
@@ -98,7 +97,7 @@ section
 	margin: auto;
 	width: 100%;
 	border-collapse: collapse;
-	font-size: 1.1em;
+	font-size: 0.9em;
 }
 
 .study .default-with /* td Colone de gauche */
@@ -132,7 +131,7 @@ td:last-child
 {
 	margin: auto;
 	width: 96%;
-	font-size: 1.1em;
+	font-size: 0.9em;
 }
 
 /**********************************************************************/
@@ -141,7 +140,8 @@ td:last-child
 {
 	margin: auto;
 	width: 96%;
-	font-size: 1.1em;
+	font-size: 0.9em;
+	padding-bottom: 8%;
 }
 
 /**********************************************************************/
@@ -161,6 +161,11 @@ td:last-child
 		font-size: 1.3em;
 	}
 
+	.coordonees
+	{
+		font-size: 1.3em;
+	}
+
 	#connaissances img
 	{
 		width: 60%;
@@ -169,6 +174,12 @@ td:last-child
 	.study
 	{
 		width: 90%;
+		font-size: 1.2em;
+	}
+
+	#loisir, #freelance
+	{
+		font-size: 1.1em;	
 	}
 }
 
@@ -220,6 +231,16 @@ td:last-child
 	#study, #connaissances img
 	{
 		margin-top: 30px;
+	}
+
+	.coordonees
+	{
+		font-size: 1.5em;
+	}
+
+	.study, #freelance, #loisir
+	{
+		font-size: 1.2em;
 	}
 }
 

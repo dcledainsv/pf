@@ -118,7 +118,7 @@
 					<tr>
 						<td>2013</td>
 						<td>
-							Cash Express (stage électricité) - Saint-Doulchard (18) <br />
+							Cash Express (stage informatique) - Saint-Doulchard (18) <br />
 							Réinstallation de système d'xploitation, installations de pilote et logiciel <br />
 							Aborder et conseiller des clients.
 						</td>
