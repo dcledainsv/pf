@@ -1,10 +1,10 @@
 <nav>
 	<ul>
-		<li> <a href="">Acceuil</a> </li>
+		<li> <a href="./index.php">Acceuil</a> </li>
 		<li>
-			<a href="">Mes projets</a>
+			<a href="">Mes réalisations</a>
 				<ul class="submenu">
-					<li> <a href="">Un</a> </li>
+					<li> <a href="">Première page en formation</a> </li>
 					<li> <a href="">Deux</a> </li>
 					<li> <a href="">Trois</a> </li>
 					<li> <a href="">Quattre</a> </li>
